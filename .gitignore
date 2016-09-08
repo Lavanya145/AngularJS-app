@@ -42,4 +42,4 @@ jspm_packages
 
 .DS_Store
 angular-seed/node-modules
-
+app/bower_components
